@@ -7,7 +7,7 @@ import org.springframework.security.core.context.SecurityContext;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Service;
 
-import com.GreenStitch.exceptions.UserException;
+// import com.GreenStitch.exceptions.UserException;
 import com.GreenStitch.model.UserData;
 import com.GreenStitch.repository.UserRepository;
 
